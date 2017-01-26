@@ -1,4 +1,5 @@
 Radial Bubble Tree
+http://vis4.net/blog/posts/tutorial-bubble-tree/
 ==================
 
 ![bubble tree screenshot](http://driven-by-data.net/wp/wp-content/uploads/2011/06/Bildschirmfoto-2011-07-02-um-23.02.50.png bubbletree screenshot right)
